@@ -17,7 +17,7 @@ Outras áreas de interesse que estou estudando é automação de tarefas com She
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laisfsgomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔥 Contato
- - 📧 Mail: laisgomes@alu.ufc.br / laisfsgomes@gmail.com
+ - 📧 Mail: laisfsgomes@gmail.com
  - 🎧 Discord: Lais#9976
  - 📷 Instagram: @laisfsg_
  -  :large_blue_circle: LinkedIn: https://www.linkedin.com/in/laisfsgomes/
