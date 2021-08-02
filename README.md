@@ -18,6 +18,4 @@ Outras áreas de interesse que estou estudando é automação de tarefas com She
 
 ### 🔥 Contato
  - 📧 Mail: laisfsgomes@gmail.com
- - 🎧 Discord: Lais#9976
- - 📷 Instagram: @laisfsg_
  -  :large_blue_circle: LinkedIn: https://www.linkedin.com/in/laisfsgomes/
