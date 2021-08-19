@@ -14,7 +14,7 @@ Sou atualmente desenvolvedora front-end com bastante experiência em HTML5, CSS3
 Outras áreas de interesse que estou estudando é automação de tarefas com Shell Script, Blockchain e também desenvolvimento ágil.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laisfsgomes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laisfsgomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
