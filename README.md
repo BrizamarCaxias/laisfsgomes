@@ -9,9 +9,8 @@ Seja bem-vindo(a) ao meu GitHub!
  -  :heart: Apaixonada pela área de desenvolvimento web
  -  ⚡ Atualmente sou developer na Loading Desenvolvimento Jr, que é a empresa jr do meu curso
 
-Sou atualmente desenvolvedora front-end com bastante experiência em HTML5, CSS3, JavaScript, JQuery, Materialize, Bootstrap e uso de diversas APIs em projetos reais. Também tenho conhecimentos em ReactJS, Sass, Python, Java, Scilab, Octave, Linux e mais outras diversas tecnologias que vi ao longo de minha formação acadêmica e dos meus estudos pessoais. Tenho como meta pessoal ser uma desenvolvera full-stack e por conta disso estou estudando MySQL e PHP :chart_with_upwards_trend:
+Sou atualmente desenvolvedora front-end com experiência em HTML5, CSS3, JavaScript, JQuery, Materialize, Bootstrap e uso de diversas APIs em projetos reais. Também tenho conhecimentos em ReactJS, Sass, Python, Java, Scilab, Octave, Linux, SQL e mais outras diversas tecnologias que vi ao longo de minha formação acadêmica e dos meus estudos pessoais. 
 
-Outras áreas de interesse que estou estudando é automação de tarefas com Shell Script, Blockchain e também desenvolvimento ágil.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laisfsgomes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
